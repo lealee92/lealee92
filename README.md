@@ -1,4 +1,4 @@
-### Hi there 👋
+### Coucou 👋
 
 <!--
 **lealee92/lealee92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,19 +24,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer from Paris.
-- 🔭 I’m currently working on a Mern project
-- :zap: In my free time, I read tech articles and I play on CodingGame or Codewars
+### :woman_technologist: A propos de moi :
+J'ai eu un premier aperçu du métier lorsque je travaillais en tant qu'assistante dans une agence digitale. J'ai collaboré avec les développeurs webs et les chefs de projets sur des refontes de site et des mises à jours (avec Drupal) et j'y ai pris goût. J'ai perdu mon emploi pendant la crise du covid et j'ai saisi cette opportunité pour effectuer une reconversion professionnelle. J'ai fait mes premiers pas avec un bootcamp (Le Réacteur) intensif qui a duré 3 mois, depuis j'essaie de me former, et de travailler sur un projet tous les jours. Je suis aujourd'hui à la recherche d'une alternance pour la rentrée de novembre 2022 avec la Wild Code School. Je suis mobile dans toute la France (préférence Tours, Lyon, Nice) 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Langages et Outils :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
