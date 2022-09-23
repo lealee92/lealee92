@@ -29,7 +29,12 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: A propos de moi :
-J'ai eu un premier aperçu du métier lorsque je travaillais en tant qu'assistante dans une agence digitale. J'ai collaboré avec les développeurs webs et les chefs de projets sur des refontes de site et des mises à jours (avec Drupal) et j'y ai pris goût. J'ai perdu mon emploi pendant la crise du covid et j'ai saisi cette opportunité pour effectuer une reconversion professionnelle. J'ai fait mes premiers pas avec un bootcamp (Le Réacteur) intensif qui a duré 3 mois, depuis j'essaie de me former, et de travailler sur un projet tous les jours. Je suis aujourd'hui à la recherche d'une alternance pour la rentrée de novembre 2022 avec la Wild Code School. Je suis mobile dans toute la France (préférence Tours, Lyon, Nice) 
+J'ai eu un premier aperçu du métier lorsque je travaillais en tant qu'assistante dans une agence digitale. J'ai collaboré avec les développeurs webs et les chefs de projets sur des refontes de site et des mises à jours (avec Drupal & wordpress) et j'y ai pris goût. J'ai profité de la crise du covid pour tenter ma reconversion professionnelle. J'ai fait mes premiers pas dans un bootcamp, où j'ai appris à coder mes premiers sites :
+- React & Javascript en front-end et 
+- Express, mongoDB, node js en back-end. 
+Depuis j'essaie de continuer à me former en autonomie; notamment avec Zerotomastery. 
+
+Je suis aujourd'hui à la recherche d'une alternance pour la rentrée de novembre 2022 avec la Wild Code School (éligible à l'emploi franc) sur Paris uniquement ou en remote. 
 
 ---
 ### :hammer_and_wrench: Langages et Outils :
