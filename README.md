@@ -34,7 +34,7 @@ J'ai eu un premier aperçu du métier lorsque je travaillais en tant qu'assistan
 - Express, mongoDB, node js en back-end. 
 Depuis j'essaie de continuer à me former en autonomie; notamment avec Zerotomastery. 
 
-Je suis aujourd'hui à la recherche d'une alternance pour la rentrée de novembre 2022 avec la Wild Code School (éligible à l'emploi franc) sur Paris uniquement ou en remote. 
+Je suis aujourd'hui à la recherche de mon premier CDI (éligible à l'emploi franc) sur Paris uniquement ou en remote. 
 
 ---
 ### :hammer_and_wrench: Langages et Outils :
