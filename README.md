@@ -29,12 +29,10 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: A propos de moi :
-J'ai eu un premier aperçu du métier lorsque je travaillais en tant qu'assistante dans une agence digitale. J'ai collaboré avec les développeurs webs et les chefs de projets sur des refontes de site et des mises à jours (avec Drupal & wordpress) et j'y ai pris goût. J'ai profité de la crise du covid pour tenter ma reconversion professionnelle. J'ai fait mes premiers pas dans un bootcamp, où j'ai appris à coder mes premiers sites :
-- React & Javascript en front-end et 
-- Express, mongoDB, node js en back-end. 
-Depuis j'essaie de continuer à me former en autonomie; notamment avec Zerotomastery. 
+[24/10/2022] J'ai décidé d'arrêter de me mettre la pression pour trouver du travail dans la tech mais de coder par passion et par envie. 
+Actuellement je reprends les bases de HTML/CSS, je me suis rendu compte que je galèrais beaucoup trop avec les positions dès que ça devenait un peu complexe et que j'avais du mal avec le responsive. Je m'entraîne actuellement sur les challenges du frontend mentor ! 
 
-Je suis aujourd'hui à la recherche de mon premier CDI (éligible à l'emploi franc) sur Paris uniquement ou en remote. 
+
 
 ---
 ### :hammer_and_wrench: Langages et Outils :
