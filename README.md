@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: A propos de moi :
-[24/10/2022] J'ai décidé d'arrêter de me mettre la pression pour trouver du travail dans la tech mais de coder par passion et par envie. 
-Actuellement je reprends les bases de HTML/CSS, je me suis rendu compte que je galèrais beaucoup trop avec les positions dès que ça devenait un peu complexe et que j'avais du mal avec le responsive. Je m'entraîne actuellement sur les challenges du frontend mentor ! 
-
 
 
 ---
